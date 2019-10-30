@@ -1,4 +1,4 @@
-<?PHP include ('inc/quiz.php');?>
+<?PHP include ('Project2/quiz.php');?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
